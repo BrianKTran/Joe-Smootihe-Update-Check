@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode>
+  <siteMapNode label="Home" title="Home" description="Home" url="~/Default.aspx" />
+    <siteMapNode title="Menu" description="Menu" url="~/Pages/Menu.aspx" />
+    <siteMapNode title="About Us" description="About Us" url="~/Pages/AboutUs.aspx" />
+    <siteMapNode title="Events" description="Events" url="~/Pages/Events.aspx" />
+    <siteMapNode title="Contact Us" description="Contact Us" url="~/Pages/Contact.aspx" />
+    <siteMapNode title="Login" description="Login" url="~/Pages/Login.aspx" />
+    <siteMapNode title="SignUp" description="SignUp" url="~/Pages/SignUp.aspx" />
+  </siteMapNode>
+</siteMap>

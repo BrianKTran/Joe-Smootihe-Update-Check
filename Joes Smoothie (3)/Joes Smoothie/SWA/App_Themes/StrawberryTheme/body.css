@@ -1,0 +1,23 @@
+﻿body
+{
+    background-color:#f6f6f6;
+    margin:0;
+    padding:0;
+}
+
+#container
+{
+    background-color:white;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    margin:20px;
+    padding:10px;
+}
+
+footer
+{
+    height:100px;
+    width:100%;
+    background-color:#f32b44
+}

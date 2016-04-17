@@ -1,0 +1,7 @@
+1. Right click on "Solution" at the very top of your solution explorer in VS. 
+2. Click "Ope Folder in File Explorer" 
+3. Drag all the files I sent you into your "SWA" folder
+	3.a.Make sure to drag the contents from "These goes in Pages folder" to your "Pages" folder. 
+	3.b. Drag the rest whereever into the "SWA" folder. 
+
+Thanks! GG.

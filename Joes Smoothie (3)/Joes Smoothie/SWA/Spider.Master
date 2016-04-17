@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Spider.master.cs" Inherits="SWA.Spider" %>
+<%@ Register Src="~/Controls/Banner.ascx" TagName="Banner" TagPrefix="ucBan" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <header class="TopContent">
+        <ucBan:Banner ID="Banner" runat="server" img="" />
+    </header>
+        <div id="container">
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+        </div>
+    <footer>
+
+    </footer>
+
+</body>
+</html>
